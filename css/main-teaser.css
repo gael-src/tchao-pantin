@@ -29,13 +29,6 @@
     color: white;
 }
 
-.mainMediaContainer {
-    background-image: url("../images/galaxy.jpg");
-    width: 100%;
-    background-position: 50% 50%;
-    height: 600px;
-}
-
 .mainTeaserImage {
     height: 100%;
 }
@@ -52,14 +45,16 @@
         width: 50%;
         height: 100%;
     }
-    .mainMediaContainer {
-        background-image: url("../images/galaxy.jpg");
-        width: 100%;
-        background-position: 50% 50%;
-        height: 600px;
-    }
     .mainTeaserImage {
         width: 100%;
         height: 100%;
+    }
+    .main-teaser-image-wrapper {
+        border: solid 2px white;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .main-teaser-image {
+        width: 100%;
     }
 }

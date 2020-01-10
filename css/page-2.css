@@ -1,0 +1,47 @@
+.main-page-container-2 {
+    background-color: #f0f097;
+    margin: 0 auto;
+}
+
+.b-page-window-1 {}
+
+.b-page-window-2 {}
+
+.b-sub-page-window-1 {}
+
+.b-sub-page-window-2 {}
+
+.b-page-window-3 {}
+
+@media screen and (min-width: 1024px) {
+    .main-page-container-2 {
+        height: 900px;
+        width: 50%;
+    }
+    .b-page-window-1 {
+        height: 50%;
+        width: 95%;
+        border-right: solid 2px black;
+        border-bottom: solid 2px black;
+    }
+    .b-page-window-2 {
+        display: flex;
+        height: 20%;
+        width: 90%;
+        margin: 10px auto;
+    }
+    .b-sub-page-window-1 {
+        border: solid 2px black;
+        margin-right: 2px;
+    }
+    .b-sub-page-window-2 {
+        border: solid 2px black;
+        margin-left: 2px;
+    }
+    .b-page-window-3 {
+        height: 20%;
+        width: 95%;
+        border: solid 2px black;
+        border-left: none;
+    }
+}

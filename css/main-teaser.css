@@ -34,6 +34,9 @@
 }
 
 @media screen and (min-width: 1024px) {
+    .mainTeaser {
+        height: 100%;
+    }
     .mainTeaserContainer {
         display: flex;
     }

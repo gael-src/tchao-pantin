@@ -18,7 +18,7 @@
 
 .homeMainLink {
     text-decoration: none;
-    border: solid 1px white;
+    border: solid 1px black;
     padding: 3px 15px 2px 15px;
     color: black;
 }
@@ -31,6 +31,7 @@
     }
     .mainTeaserContainer {
         display: flex;
+        height: 45vh;
     }
     .mainMediaContainer {
         width: 50%;
@@ -55,9 +56,13 @@
     .main-teaser-image {
         width: 100%;
     }
+    .main-teaser-arrow-down-wrapper {
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        margin: 20% auto;
+    }
     .main-teaser-arrow-down {
-        width: 50px;
-        color: white;
-        fill: white;
+        width: 20px;
     }
 }

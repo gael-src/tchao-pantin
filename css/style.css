@@ -2,13 +2,14 @@
 @import 'main-teaser.css';
 @import 'page-1.css';
 @import 'page-2.css';
+@import 'page-3.css';
 * {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
 
 body {
-    background-color: #1A1913;
+    background-color: #e8f8fd;
 }
 
 @media screen and (min-width: 1024px) {}

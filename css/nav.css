@@ -1,7 +1,7 @@
 .main-header {}
 
 .main-nav {
-    background-color: white;
+    background-color: black;
 }
 
 .main-logo {}
@@ -9,24 +9,23 @@
 .main-nav-links {}
 
 .main-titel {
-    color: black;
+    color: white;
 }
 
 .nav-link {
-    color: black;
+    color: white;
     text-decoration: none;
-    color: black;
 }
 
 .nav-link-work {}
 
 @media screen and (min-width: 1024px) {
     .main-header {
-        height: 25px;
+        height: 35px;
         width: 100%;
         display: flex;
         position: fixed;
-        padding-top: 5px;
+        padding-top: 10px;
     }
     .main-nav {
         display: flex;
@@ -48,12 +47,12 @@
         font-size: 18px;
     }
     .nav-link:hover {
-        border-bottom: 2px solid black;
+        border-bottom: 2px solid white;
     }
     .nav-link-work {
         margin: 0 auto;
     }
     .nav-link-work:hover {
-        border-bottom: 2px solid black;
+        border-bottom: 2px solid white;
     }
 }

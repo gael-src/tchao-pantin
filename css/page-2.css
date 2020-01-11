@@ -1,6 +1,5 @@
 .main-page-container-2 {
-    background-color: #f0f097;
-    margin: 0 auto;
+    
 }
 
 .b-page-window-1 {}
@@ -15,6 +14,8 @@
 
 @media screen and (min-width: 1024px) {
     .main-page-container-2 {
+        background-color: #fdfdb0;
+    margin: 0 auto;
         height: 900px;
         width: 50%;
     }

@@ -17,8 +17,6 @@
     text-decoration: none;
 }
 
-.nav-link-work {}
-
 @media screen and (min-width: 1024px) {
     .main-header {
         height: 35px;
@@ -49,8 +47,6 @@
     .nav-link:hover {
         border-bottom: 2px solid white;
     }
-    .nav-link-work {
-        margin: 0 auto;
     }
     .nav-link-work:hover {
         border-bottom: 2px solid white;

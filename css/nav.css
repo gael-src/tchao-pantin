@@ -47,10 +47,7 @@
     .nav-link:hover {
         border-bottom: 2px solid white;
     }
-}
-
-.nav-link-work:hover {
-    border-bottom: 2px solid white;
-}
-
+    .nav-link-work:hover {
+        border-bottom: 2px solid white;
+    }
 }

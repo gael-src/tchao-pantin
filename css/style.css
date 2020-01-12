@@ -5,6 +5,8 @@
 @import 'page-3.css';
 @import 'page-4.css';
 @import 'page-5.css';
+@import 'page-6.css';
+@import 'page-7.css';
 @import 'footer.css';
 * {
     margin: 0;
@@ -12,7 +14,7 @@
 }
 
 body {
-    background-color: #e8f8fd;
+    background-color: #9fc334e1;
 }
 
 @media screen and (min-width: 1024px) {}

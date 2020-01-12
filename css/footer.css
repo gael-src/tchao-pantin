@@ -1,11 +1,9 @@
-
-
 @media screen and (min-width: 1024px) {
     .main-footer-container {
         margin-right: 0;
         margin-left: 0;
         height: 40vh;
-        background-color: black;
+        background-color: #5d5d5d;
         color: white;
         padding-left: 50px;
     }

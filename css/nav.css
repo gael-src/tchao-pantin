@@ -48,6 +48,9 @@
         color: white;
         text-decoration: none;
     }
+    .music-note {
+        font-size: 25px;
+    }
     .nav-link:hover {
         border-bottom: 2px solid white;
     }

@@ -73,8 +73,12 @@
         height: 50px;
         text-align: center;
         margin: 20% auto;
+        color: white;
     }
     .main-teaser-arrow-down {
         width: 20px;
+    }
+    .arrow-down-symbol {
+        font-size: 80px;
     }
 }

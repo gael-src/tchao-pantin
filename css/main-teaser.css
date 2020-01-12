@@ -2,28 +2,25 @@
 
 .mainTeaserContainer {}
 
+.mainTitel {}
+
+.mainArticleDescription {}
+
+.homeMainLink {}
+
+.mainMediaContainer {}
+
 .mainTextContainer {}
 
-.mainTitel {
-    color: black;
-    padding-top: 10px;
-    padding-bottom: 5px;
-}
-
-.mainArticleDescription {
-    padding-top: 10px;
-    padding-bottom: 25px;
-    color: black;
-}
-
-.homeMainLink {
-    text-decoration: none;
-    border: solid 1px black;
-    padding: 3px 15px 2px 15px;
-    color: black;
-}
-
 .mainTeaserImage {}
+
+.main-teaser-image-wrapper {}
+
+.main-teaser-image {}
+
+.main-teaser-arrow-down-wrapper {}
+
+.main-teaser-arrow-down {}
 
 @media screen and (min-width: 1024px) {
     .mainTeaser {
@@ -32,6 +29,22 @@
     .mainTeaserContainer {
         display: flex;
         height: 45vh;
+    }
+    .mainTitel {
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    .mainArticleDescription {
+        padding-top: 10px;
+        padding-bottom: 25px;
+        color: black;
+    }
+    .homeMainLink {
+        text-decoration: none;
+        border: solid 1px black;
+        padding: 3px 15px 2px 15px;
+        color: black;
     }
     .mainMediaContainer {
         width: 50%;

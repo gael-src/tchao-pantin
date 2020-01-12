@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: #9fc334e1;
+    background-color: rgba(0, 0, 0, 0.932);
 }
 
 @media screen and (min-width: 1024px) {}

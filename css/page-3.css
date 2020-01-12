@@ -24,15 +24,22 @@
     .b-sub-page-window-1 {
         border: solid 2px black;
         margin-right: 2px;
+        width: 40%;
     }
     .b-sub-page-window-2 {
         border: solid 2px black;
         margin-left: 2px;
+        width: 60%;
     }
     .b-page-window-3 {
         height: 20%;
         width: 95%;
         border: solid 2px black;
         border-left: none;
+    }
+    .images-windows-special-case-page-3 {
+        background-image: url("../images/5.jpg");
+        background-position: inherit;
+        height: 100vh;
     }
 }

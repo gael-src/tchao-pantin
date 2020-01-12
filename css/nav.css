@@ -32,6 +32,9 @@
     .main-logo {
         width: 77%;
     }
+    .main-logo-image {
+        width: 250px;
+    }
     .main-nav-links {
         width: 23%;
     }

@@ -25,26 +25,25 @@
 @media screen and (min-width: 1024px) {
     .mainTeaser {
         height: 100%;
+        color: white;
     }
     .mainTeaserContainer {
         display: flex;
         height: 45vh;
     }
     .mainTitel {
-        color: black;
         padding-top: 10px;
         padding-bottom: 5px;
     }
     .mainArticleDescription {
         padding-top: 10px;
         padding-bottom: 25px;
-        color: black;
     }
     .homeMainLink {
         text-decoration: none;
-        border: solid 1px black;
+        border: solid 1px white;
         padding: 3px 15px 2px 15px;
-        color: black;
+        color: white;
     }
     .mainMediaContainer {
         width: 50%;

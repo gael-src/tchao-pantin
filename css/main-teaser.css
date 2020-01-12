@@ -41,9 +41,9 @@
     }
     .homeMainLink {
         text-decoration: none;
-        border: solid 1px white;
+        border: solid 1px #e5d429;
         padding: 3px 15px 2px 15px;
-        color: white;
+        color: #e5d429;
     }
     .mainMediaContainer {
         width: 50%;

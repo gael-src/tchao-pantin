@@ -7,15 +7,17 @@
     }
     .mainTeaserContainer {
         width: 80%;
-        border: solid 2px red;
+        height: 100vh;
         margin: 0 auto;
-    }
-    .mainTitel {
-        font-size: 60px;
-        margin: 40vh 0 30px 0;
+        border: solid 2px black; // bug bug bug bug bug bug bug bug bug bug
     }
     .mainArticleDescription {
-        margin: 30px 0 30px 0;
+        margin: 50vh 0 35vh 0;
+    }
+    .main-h2-link {
+        text-decoration: none;
+        color: red;
+        font-size: 22px;
     }
     .homeMainLink {
         text-decoration: none;

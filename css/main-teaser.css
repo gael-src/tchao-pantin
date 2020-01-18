@@ -9,7 +9,7 @@
         width: 80%;
         height: 100vh;
         margin: 0 auto;
-        border: solid 2px rgba(0, 0, 0, 0.932); // bug bug bug bug bug bug bug bug bug bug
+        border: solid 2px rgba(0, 0, 0, 0); /* bug bug bug bug bug bug bug bug bug bug */
     }
     .mainArticleDescription {
         margin: 50vh 0 35vh 0;

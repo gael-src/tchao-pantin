@@ -1,22 +1,37 @@
-
-
-
 @media screen and (min-width: 1024px) {
     body {
         color: white;
-    
     }
-
     .h2-about {
-        padding: 10%;
+        padding: 10vh;
+        text-align: center;
     }
-
+    .about-first-img-container {
+        margin: 0 auto;
+        width: 30%;
+    }
     .h3-about {
-        padding: 10%;
+        padding: 10vh;
+        text-align: center;
     }
-    
-    .main-article-container {
-        padding: 10%;
+    .main-article-container-about {
+        margin: 0 auto;
+        padding: 10vh;
+        width: 80%;
     }
-    
+    .h3-about-main-art {
+        padding: 5vh;
+    }
+    .p-about-main-art {}
+    .first-img-about {
+        width: 100%;
+    }
+    .about-last-img-container {
+        margin: 0 auto;
+        padding-bottom: 10vh;
+        width: 50%;
+    }
+    .last-img-about {
+        width: 100%;
+    }
 }

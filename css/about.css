@@ -23,7 +23,9 @@
     .h3-about-main-art {
         padding: 5vh;
     }
-    .p-about-main-art {}
+    .p-about-main-art {
+        width: 85%;
+    }
     .first-img-about {
         width: 100%;
     }

@@ -1,4 +1,6 @@
-# tchao-pantin
+# Tchao Pantin
+
+Comic Inspired HTML CSS Web Site
 
 https://gael-src.github.io/tchao-pantin/
 

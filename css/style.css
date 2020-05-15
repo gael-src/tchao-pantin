@@ -1,21 +1,38 @@
-@import 'nav.css';
-@import 'main-teaser.css';
-@import 'page-1.css';
-@import 'page-2.css';
-@import 'page-3.css';
-@import 'page-4.css';
-@import 'page-5.css';
-@import 'page-6.css';
-@import 'footer.css';
-@import 'about.css';
+@import "nav.css";
+@import "main-teaser.css";
+@import "page-1.css";
+@import "page-2.css";
+@import "page-3.css";
+@import "page-4.css";
+@import "page-5.css";
+@import "page-6.css";
+@import "footer.css";
+@import "about.css";
 * {
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.932);
-    scroll-behavior: smooth;
+  background-color: rgba(0, 0, 0, 0.932);
+  scroll-behavior: smooth;
 }
 
-@media screen and (min-width: 1024px) {}
+@media screen and (min-width: 1024px) {
+}
+
+/* GAEL-SRC.GITHUB.IO */
+.gael-src-link {
+  color: #0081ff;
+  border: solid 1px #0081ff;
+  text-decoration: none;
+  position: absolute;
+  left: 150px;
+  font-size: 16px;
+  margin: 10px 10px 10px 30px;
+  padding: 5px 10px;
+}
+.gael-src-link:hover {
+  color: #0081ff;
+  text-decoration: underline;
+}
